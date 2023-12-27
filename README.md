@@ -1,2 +1,2 @@
 # Password-Generator
-paswrdgenerator.netlify.app
+https://paswrdgenerator.netlify.app/
