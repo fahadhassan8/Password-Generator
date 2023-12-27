@@ -69,7 +69,10 @@ p {
   margin-left: 1em;
 }
 .length input {
-  width: 6em;
+  width: 8em;
+}
+.counter{
+  margin-left: 0.8em;
 }
 .numberSymbol {
   display: flex;
